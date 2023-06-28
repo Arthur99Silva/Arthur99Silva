@@ -1,5 +1,9 @@
 ### Olá/Hello 👋
 
+Atualmente estudando Ciência da computação da UFSJ - Universidade Federal de São João Del-Rei. Tenho muito interesse em desenvolvimento Web e de jogos.
+
+Currently studying Computer Science at UFSJ - Federal University of São João Del-Rei. I have a great interest in Web and game development.
+
 ### :fire: My Stats :
 
 <div>
