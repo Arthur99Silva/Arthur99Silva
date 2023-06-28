@@ -1,8 +1,8 @@
 ### Olá/Hello 👋
 
-Atualmente estudando Ciência da computação da UFSJ - Universidade Federal de São João Del-Rei. Tenho muito interesse em desenvolvimento Web e de jogos.
+Atualmente estudando Ciência da computação da UFSJ - Universidade Federal de São João Del-Rei. Tenho muito interesse em visão computacional, desenvolvimento web e de jogos. Futuramente pretendo também estudar Design e Modelagem 3D.
 
-Currently studying Computer Science at UFSJ - Federal University of São João Del-Rei. I have a great interest in Web and game development.
+Currently studying Computer Science at UFSJ - Federal University of São João Del-Rei. I have a great interest in computer vision, web development, and game development. In the future, I also plan to study Design and 3D Modeling.
 
 ### :fire: My Stats :
 
