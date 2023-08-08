@@ -9,6 +9,7 @@ Currently studying Computer Science at UFSJ - Federal University of São João D
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur99Silva&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur99Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### :hammer_and_wrench: Linguagens/Languages:
