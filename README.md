@@ -9,7 +9,7 @@ Email: arthurassilva99@gmail.com
 ### :fire: My Stats :
 
 ![Arthur99Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur99Silva&show_icons=true&theme=radical)
-![Arthur99Silva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur99Silva&theme=radical&show_icons=true&hide_border=false&layout=donut)
+![Arthur99Silva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur99Silva&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 
 ### :hammer_and_wrench: Linguagens/Languages:
