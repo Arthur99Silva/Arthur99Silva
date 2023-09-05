@@ -4,8 +4,6 @@ Atualmente estudando Ciência da computação da UFSJ - Universidade Federal de 
 
 Currently studying Computer Science at UFSJ - Federal University of São João Del-Rei. I have a great interest in computer vision, web development, and game development. In the future, I also plan to study Design and 3D Modeling.
 
-Email: arthurassilva99@gmail.com
-
 ### :fire: My Stats :
 
 ![Arthur99Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur99Silva&show_icons=true&theme=radical)
