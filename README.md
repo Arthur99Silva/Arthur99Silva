@@ -1,8 +1,6 @@
 ### Olá/Hello 👋
 
-Atualmente estudando Ciência da computação da UFSJ - Universidade Federal de São João Del-Rei. Tenho muito interesse em visão computacional, desenvolvimento web e de jogos. Futuramente pretendo também estudar Design e Modelagem 3D.
-
-Currently studying Computer Science at UFSJ - Federal University of São João Del-Rei. I have a great interest in computer vision, web development, and game development. In the future, I also plan to study Design and 3D Modeling.
+Atualmente trabalhando na Accenture com desenvolvedor Full-Stack e estudando Ciência da computação da UFSJ - Universidade Federal de São João Del-Rei.
 
 ![Arthur99Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur99Silva&show_icons=true&theme=radical)
 ![Arthur99Silva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur99Silva&theme=radical&show_icons=true&hide_border=false&layout=compact)
