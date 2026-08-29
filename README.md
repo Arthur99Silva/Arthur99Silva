@@ -3,8 +3,17 @@
 Atualmente trabalhando na Accenture como desenvolvedor Full-Stack e estudando Ciência da Computação na UFSJ - Universidade Federal de São João del-Rei.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur99Silva&show_icons=true&theme=radical&v=1" alt="Arthur99Silva's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur99Silva&theme=radical&show_icons=true&hide_border=false&layout=compact&v=1" alt="Arthur99Silva's Top Languages" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arthur99Silva&show_icons=true&theme=radical&cache_seconds=1800"
+    alt="Arthur99Silva's GitHub Stats"
+    height="150"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur99Silva&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"
+    alt="Arthur99Silva's Top Languages"
+    height="150"
+  />
 </div>
 
 ### :hammer_and_wrench: Linguagens/Languages:
