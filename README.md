@@ -131,7 +131,3 @@ Plataforma de conscientização sobre **ISTs** utilizando personalidades baseada
 </p>
 
 ---
-
-<p align="center">
-  <i>💡 Sempre aprendendo, construindo e evoluindo.</i>
-</p>
